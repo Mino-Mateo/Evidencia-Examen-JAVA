@@ -75,51 +75,51 @@ public class Menu
             //Mario Bros
             case 1 -> {
                 System.out.println("Opción 1 seleccionada.");
-                System.out.println(MarioBros.getNombre());
-                System.out.println(MarioBros.getDesarrolladora());
-                System.out.println(MarioBros.getTipo());
-                System.out.println(MarioBros.getPlataforma());
-                System.out.println(MarioBros.getRate());
+                System.out.println("Nombre: " + MarioBros.getNombre());
+                System.out.println("Desarrolladora: " + MarioBros.getDesarrolladora());
+                System.out.println("Tipo: " + MarioBros.getTipo());
+                System.out.println("Plataforma: " + MarioBros.getPlataforma());
+                System.out.println("Rate: " + MarioBros.getRate());
             }
 
             //Geometry Dash
             case 2 -> {
                 System.out.println("Opción 2 seleccionada.");
-                System.out.println(GeometryDash.getNombre());
-                System.out.println(GeometryDash.getDesarrolladora());
-                System.out.println(GeometryDash.getTipo());
-                System.out.println(GeometryDash.getPlataforma());
-                System.out.println(GeometryDash.getRate());
+                System.out.println("Nombre: " + GeometryDash.getNombre());
+                System.out.println("Desarrolladora: " + GeometryDash.getDesarrolladora());
+                System.out.println("Tipo: " + GeometryDash.getTipo());
+                System.out.println("Plataforma: " + GeometryDash.getPlataforma());
+                System.out.println("Rate: " + GeometryDash.getRate());
             }
 
             //Legend of Zelda
             case 3 -> {
                 System.out.println("Opción 3 seleccionada.");
-                System.out.println(LegendofZelda.getNombre());
-                System.out.println(LegendofZelda.getDesarrolladora());
-                System.out.println(LegendofZelda.getTipo());
-                System.out.println(LegendofZelda.getPlataforma());
-                System.out.println(LegendofZelda.getRate());
+                System.out.println("Nombre: " + LegendofZelda.getNombre());
+                System.out.println("Desarrolladora: " + LegendofZelda.getDesarrolladora());
+                System.out.println("Tipo: " + LegendofZelda.getTipo());
+                System.out.println("Plataforma: " + LegendofZelda.getPlataforma());
+                System.out.println("Rate: " + LegendofZelda.getRate());
             }
 
             //God of War
             case 4 -> {
                 System.out.println("Opción 4 seleccionada.");
-                System.out.println(GodofWar.getNombre());
-                System.out.println(GodofWar.getDesarrolladora());
-                System.out.println(GodofWar.getTipo());
-                System.out.println(GodofWar.getPlataforma());
-                System.out.println(GodofWar.getRate());
+                System.out.println("Nombre: " + GodofWar.getNombre());
+                System.out.println("Desarrolladora: " + GodofWar.getDesarrolladora());
+                System.out.println("Tipo: " + GodofWar.getTipo());
+                System.out.println("Plataforma: " + GodofWar.getPlataforma());
+                System.out.println("Rate: " + GodofWar.getRate());
             }
 
             //Call of Duty
             case 5 -> {
                 System.out.println("Opción 5 seleccionada.");
-                System.out.println(CallofDuty.getNombre());
-                System.out.println(CallofDuty.getDesarrolladora());
-                System.out.println(CallofDuty.getTipo());
-                System.out.println(CallofDuty.getPlataforma());
-                System.out.println(CallofDuty.getRate());
+                System.out.println("Nombre: " + CallofDuty.getNombre());
+                System.out.println("Desarrolladora: " + CallofDuty.getDesarrolladora());
+                System.out.println("Tipo: " + CallofDuty.getTipo());
+                System.out.println("Plataforma: " + CallofDuty.getPlataforma());
+                System.out.println("Rate: " + CallofDuty.getRate());
             }
 
             //Default
